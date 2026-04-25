@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Demo-ATM system/Demo-ATM system.csproj" Id="6581f037-5d8e-42be-a60d-cc56a8b08cf6" />
+  <Project Path="Demo-Classroom-Demonstration-Example-2/Demo-Classroom-Demonstration-Example-2.csproj" />
+  <Project Path="Demo-Example-Student-Constructor-Program/Demo-Example-Student-Constructor-Program.csproj" />
+  <Project Path="Demo_ATM_system.Tests/Demo_ATM_system.Tests.csproj" Id="e66852ef-5173-410c-8bee-49116544b628" />
+  <Project Path="Example-understand-classification/Example-understand-classification.csproj" />
+  <Project Path="ProductSystemDemo/ProductSystemDemo.csproj" Id="2b3a6d02-cd59-4855-9199-19845bbc69ca" />
+  <Project Path="ProductSystemDemoStatic/ProductSystemDemoStatic.csproj" Id="e447e409-a5aa-411a-b10e-7579c14fa34e" />
+  <Project Path="ProductSystemDemoWith-TestingUnit/ProductSystemDemoWith-TestingUnit.csproj" Id="cc8d1d7b-93af-4a0e-aa8b-96818f78e0ee" />
+  <Project Path="ProductSystemDemoWith_TestingUnit.Tests/ProductSystemDemoWith_TestingUnit.Tests.csproj" Id="1ecfbccc-1677-4bc6-97c7-3bba4080174b" />
+</Solution>
