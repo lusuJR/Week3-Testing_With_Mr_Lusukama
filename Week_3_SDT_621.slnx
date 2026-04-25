@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AnonymousTypesDemo/AnonymousTypesDemo.csproj" Id="6e3cedf4-a948-4306-b498-ebefbb8be841" />
   <Project Path="Demo-ATM system/Demo-ATM system.csproj" Id="6581f037-5d8e-42be-a60d-cc56a8b08cf6" />
   <Project Path="Demo-Classroom-Demonstration-Example-2/Demo-Classroom-Demonstration-Example-2.csproj" />
   <Project Path="Demo-Example-Student-Constructor-Program/Demo-Example-Student-Constructor-Program.csproj" />
