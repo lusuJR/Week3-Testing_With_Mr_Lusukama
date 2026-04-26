@@ -9,4 +9,5 @@
   <Project Path="ProductSystemDemoStatic/ProductSystemDemoStatic.csproj" Id="e447e409-a5aa-411a-b10e-7579c14fa34e" />
   <Project Path="ProductSystemDemoWith-TestingUnit/ProductSystemDemoWith-TestingUnit.csproj" Id="cc8d1d7b-93af-4a0e-aa8b-96818f78e0ee" />
   <Project Path="ProductSystemDemoWith_TestingUnit.Tests/ProductSystemDemoWith_TestingUnit.Tests.csproj" Id="1ecfbccc-1677-4bc6-97c7-3bba4080174b" />
+  <Project Path="UnderstandingValuesAndReferences-Demo/UnderstandingValuesAndReferences-Demo.csproj" Id="1f9c82e2-c1d3-4976-ae49-af20b9b0a882" />
 </Solution>
