@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains Week 3 learning activities covering key C# programming concepts aligned with software development fundamentals and testing practices.
+![Uploading C# OOP project diagram for retail system.png…]()
 
 The focus areas include:
 
